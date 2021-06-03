@@ -21,9 +21,16 @@ elements.forEach(function(el) {
 	el.textContent = el.textContent.replace(/ich/g, "isch");
 	el.textContent = el.textContent.replace(/ei/g, "ee");
 	el.textContent = el.textContent.replace(/k/g, "g");
-	el.textContent = el.textContent.replace(/K/g, "G");
 	el.textContent = el.textContent.replace(/p/g, "b");
-	el.textContent = el.textContent.replace(/P/g, "B");
 	el.textContent = el.textContent.replace(/t/g, "d");
+
+	el.textContent = el.textContent.replace(/CK/g, "GG");
+	el.textContent = el.textContent.replace(/IG/g, "ISCH");
+	el.textContent = el.textContent.replace(/ICH/g, "ISCH");
+	el.textContent = el.textContent.replace(/EI/g, "EE");
+	el.textContent = el.textContent.replace(/K/g, "G");
+	el.textContent = el.textContent.replace(/P/g, "B");
 	el.textContent = el.textContent.replace(/T/g, "D");
+
+	el.textContent = el.textContent.replace(/Ei/g, "Ee");
 });

@@ -18,7 +18,7 @@ The sentence
 
 becomes
 
-> Ein Dialegd, auch als Mundard bezeeschned, isd eene logale oder regionale Sbrachvariedäd.
+> Een Dialegd, auch als Mundard bezeeschned, isd eene logale oder regionale Sbrachvariedäd.
 
 ## Disclaimer 
 
