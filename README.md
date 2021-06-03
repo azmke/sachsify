@@ -1,4 +1,4 @@
-# Sachsify
+# Sachsify 🎪
 
 Sachsify is a small Firefox extension that changes all the words on the websites you visit to how someone with a Saxon dialect would pronounce them. To do this, it replaces some letters and groups of letters:
 
